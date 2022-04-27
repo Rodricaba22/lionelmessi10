@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto+Slab:wght@200&family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto+Slab:wght@200&family=Roboto:ital,wght@0,300;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Poppins:wght@300&family=Roboto+Slab:wght@200&family=Roboto:ital,wght@0,300;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Oswald:wght@300&family=Poppins:wght@300&family=Roboto+Slab:wght@200&family=Roboto:ital,wght@0,300;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Open+Sans:ital,wght@1,300&family=Oswald:wght@300&family=Poppins:wght@300&family=Roboto+Slab:wght@200&family=Roboto:ital,wght@0,300;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Mukta:wght@300&family=Open+Sans:ital,wght@1,300&family=Oswald:wght@300&family=Poppins:wght@300&family=Roboto+Slab:wght@200&family=Roboto:ital,wght@0,300;1,300&display=swap");
+nav {
+  background-color: #3bced0;
+  padding: 5px 20px; }
+  nav img {
+    width: 50%; }
+  nav ul {
+    display: flex; }
+    nav ul li {
+      margin-right: 10px; }
+      nav ul li a {
+        font-size: 1.5em; }
+        nav ul li a:hover {
+          color: blue; }
+
+#contenido p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5em;
+  padding: 20px;
+  line-height: 1.4em;
+  text-align: center; }
+
+.titulo {
+  font-family: "Roboto Slab", serif;
+  font-size: 2em;
+  padding: 15px;
+  text-align: center; }
+
+.titulo1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  background-image: url(../img/nob.jpg); }
+
+.parrafo {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.5em;
+  padding: 10px;
+  text-align: left; }
+
+.titulo2 {
+  font-family: "Merriweather", serif;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  color: #ee0b0b;
+  background-image: url(../img/barcelona.jpg); }
+
+.titulo3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  color: #0c8dd7;
+  background-image: url(../img/paris.jpg); }
+
+.titulo4 {
+  font-family: "Mukta", sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  color: #3bced0;
+  background-image: url(../img/celeste.jpg); }
+
+.palmares {
+  font-family: "Oswald", sans-serif;
+  font-size: 3em;
+  padding: 15px;
+  text-align: center;
+  color: #b5c413; }
+
+.nacional {
+  font-family: "Poppins", sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  color: #ee0b0b; }
+
+.internacional {
+  font-family: "Merriweather", serif;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  color: #0c8dd7; }
+
+.individual {
+  font-family: "Mukta", sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  color: blue; }
+
+.galeria1 {
+  font-family: "Roboto Slab", serif;
+  font-size: 3em;
+  padding: 5px;
+  text-align: center; }
+
+.foto {
+  background-image: url(../img/blanco.webp); }
+
+.h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 2em;
+  padding: 10px; }

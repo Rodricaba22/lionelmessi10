@@ -1,0 +1,124 @@
+#contenido{
+	p{
+		font-family: $fontSecondary;
+		font-size: $textSm;
+		padding: 20px;
+		line-height: 1.4em;
+		text-align: center;
+	}
+}
+
+
+
+
+.titulo{
+	
+		font-family:$fontTercera;
+		font-size: $textMd;
+		padding: 15px;
+		text-align: center;
+
+	
+}
+
+.titulo1{
+	font-family: $fontCuarta;
+	font-size: $textMd;
+	padding: 10px;
+	text-align: center;
+	color: $tercerColor;
+	background-image: url(../img/nob.jpg);
+
+}
+
+.parrafo{
+	font-family: $fontQuinta;
+	font-size: $textSm;
+	padding: 10px;
+	text-align: left;
+
+}
+
+.titulo2{
+	font-family: $fontsexta;
+	font-size: $textMd;
+	padding: 10px;
+	text-align: center;
+	color: $cuartoColor;
+	background-image: url(../img/barcelona.jpg);
+
+}
+.titulo3{
+	font-family: $fontMain;
+	font-size:  $textMd;
+	padding: 10px;
+	text-align: center;
+	color:  $quintoColor;
+	background-image: url(../img/paris.jpg);
+
+}
+.titulo4{
+	font-family: $fontSeptima;
+	font-size:$textMd;
+	padding: 10px;
+	text-align: center;
+	color: $mainColor;
+	background-image: url(../img/celeste.jpg);
+
+
+}
+
+.palmares{
+	font-family: $fontQuinta;
+	font-size: $textLg;
+	padding: 15px;
+	text-align: center;
+	color: $colorTitulo;
+}
+.nacional{
+	font-family: $fontCuarta;
+	font-size: $textMd;
+	padding: 10px;
+	text-align: center;
+	color: $cuartoColor;
+
+}
+.internacional{
+	font-family: $fontsexta;
+	font-size: $textMd;
+	padding: 10px;
+	text-align: center;
+	color: $quintoColor;
+}
+
+.individual{
+	font-family: $fontSeptima;
+	font-size: $textMd;
+	padding: 10px;
+	text-align: center;
+	color: $keyColor;
+}
+
+.galeria1{
+	font-family: $fontTercera;
+	font-size: $textLg;
+	padding: 5px;
+	text-align: center;
+	
+
+}
+
+
+.foto{
+	background-image: url(../img/blanco.webp);
+
+}
+.h1{
+	font-family: $fontCuarta;
+	font-size: $textMd;
+	padding: 10px;
+
+}
+
+
+
